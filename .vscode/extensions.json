@@ -12,6 +12,63 @@
     "esbenp.prettier-vscode",
 
     // Understated grayscale theme (light and dark variants)
-    "philipbe.theme-gray-matter"
+    "philipbe.theme-gray-matter",
+
+    // Render docx and odt in VS Code
+    "ShahilKumar.docxreader",
+
+    // draw.io in VS Code
+    "hediet.vscode-drawio",
+
+    // Open epub in VS Code
+    "cweijan.epub-reader",
+
+    // Open and edit Excel sheets and CSV in VS Code
+    "GrapeCity.gc-excelviewer",
+
+    // Download stuff in VS Code
+    "mindaro-dev.file-downloader",
+
+    // Automatically commit on save
+    "vsls-contrib.gitdoc",
+
+    // GitHub Copilot
+    "GitHub.copilot",
+
+    // GitHub Copilot Chat
+    "GitHub.copilot-chat",
+
+    // View PDFs in VS Code
+    "tomoki1207.pdf",
+
+    // TODO tree view
+    "Gruntfuggly.todo-tree",
+
+    // Web clipper
+    "jsartelle.web-clipper",
+
+    // GitHub Markdown preview
+    "bierner.github-markdown-preview",
+
+    // GitHub RemoteHub
+    "GitHub.remotehub",
+
+    // Live Share
+    "ms-vsliveshare.vsliveshare",
+
+    // Markdown footnotes
+    "bierner.markdown-footnotes",
+
+    // Rainbow CSV
+    "mechatroner.rainbow-csv",
+
+    // Speech to text
+    "ms-vscode.vscode-speech",
+
+    // Remote development extension pack
+    "ms-vscode-remote.vscode-remote-extensionpack",
+
+    // Remote explorer
+    "ms-vscode.remote-explorer"
   ]
 }
